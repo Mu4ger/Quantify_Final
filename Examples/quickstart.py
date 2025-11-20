@@ -1,8 +1,11 @@
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # suppress INFO and WARNING messages
+
 # examples/quickstart.py
 import pandas as pd
 import numpy as np
 import talib
-##import tensorflow as tf
+import tensorflow as tf
 import backtrader as bt
 import plotly.express as px
 
