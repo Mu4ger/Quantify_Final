@@ -3,6 +3,8 @@
 Quantify is a **financial analytics dashboard** built using **Streamlit**, **Backtrader**, **Polygon.io**, and **Plotly**.  
 It allows users to visualize technical indicators, run trading strategy backtests, and compare predictions versus actual price movements for selected assets.
 
+<img width="1440" height="900" alt="Screenshot 2025-11-20 at 4 40 07 PM" src="https://github.com/user-attachments/assets/f34737e7-b8ad-4d6d-82d7-ac5874fd442e" />
+
 ---
 
 ## 🚀 Features
